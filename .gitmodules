@@ -6,3 +6,7 @@
 	path = agent-cli-plugin
 	url = git@github.com:VietThan/agent-cli-plugin.git
 	branch = main
+[submodule "our-adventures"]
+	path = our-adventures
+	url = git@github.com:VietThan/our-adventures.git
+	branch = main
