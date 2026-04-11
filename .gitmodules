@@ -1,0 +1,4 @@
+[submodule "nyc-adventure"]
+	path = nyc-adventure
+	url = git@github.com:VietThan/nyc-adventure.git
+	branch = main
