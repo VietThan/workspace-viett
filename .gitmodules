@@ -2,3 +2,7 @@
 	path = nyc-adventure
 	url = git@github.com:VietThan/nyc-adventure.git
 	branch = main
+[submodule "agent-cli-plugin"]
+	path = agent-cli-plugin
+	url = git@github.com:VietThan/agent-cli-plugin.git
+	branch = main
