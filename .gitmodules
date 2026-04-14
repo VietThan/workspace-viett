@@ -10,3 +10,7 @@
 	path = our-adventures
 	url = git@github.com:VietThan/our-adventures.git
 	branch = main
+[submodule "shared-aws-infra"]
+	path = shared-aws-infra
+	url = git@github.com:VietThan/shared-aws-infra.git
+	branch = main
